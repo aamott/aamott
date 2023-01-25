@@ -1,4 +1,4 @@
-Recent graduate of BYU - Idaho with a degree in Software Engineering and lover of 3D Printing, electronics, and coding. 
+Graduate of BYU - Idaho with a degree in Software Engineering and lover of 3D Printing, electronics, and coding. 
 You can reach me on [LinkedIn](https://www.linkedin.com/in/adamamott/) 📫
 
 <!---
