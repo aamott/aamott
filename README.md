@@ -1,5 +1,4 @@
-Graduate of BYU - Idaho with a degree in Software Engineering and lover of 3D Printing, electronics, and coding. 
-You can reach me on [LinkedIn](https://www.linkedin.com/in/adamamott/) 📫
+Software Engineering nerd and lover of 3D Printing. Always happy to respond on repos 😉
 
 <!---
 aamott/aamott is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
